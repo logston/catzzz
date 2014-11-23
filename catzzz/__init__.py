@@ -7,7 +7,7 @@ import threading
 import time
 import sys
 
-__version__ = '0.1.2'
+__version__ = '0.1.3'
 
 
 CURRENT_DIR = os.path.dirname(os.path.realpath(__file__))
