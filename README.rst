@@ -35,3 +35,18 @@ A package for getting more cats into your code.
            unknown                 "boo,._dP"       `\_  `\    `\|   `\   ;
                                      `"7tY~'            `\  `\    `|_   |
                                                           `~\  |
+
+Installation
+============
+
+::
+
+    $ pip install catzzz
+
+
+Usage
+=====
+
+::
+
+    >>> import catzzz
