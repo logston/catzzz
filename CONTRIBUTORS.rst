@@ -4,3 +4,4 @@ answer questions, and generally made catzzz that much better:
 
     Paul Logston
     Paul Inder
+    Richard Hydomako
